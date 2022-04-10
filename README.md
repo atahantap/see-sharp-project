@@ -1,5 +1,5 @@
 # 2020_302_seesharp
-An arcade shooting game built from scratch, written in Java as a part of the OOP principles course with a team of 4 people. Learned how to build a project using an agile approach while paying attention to design patterns and scalability.
+An arcade shooting game built from scratch, written in Java as a part of the OOP principles course with a team of 4 people. Used an agile approach while paying attention to design patterns and scalability.
 
 This is the final demo KUvid created by SeeSharp.
 When user runs the code: 
